@@ -38,7 +38,7 @@ class MotorJuego {
             vidaMaxima: 100,          // HP iniciales del planeta
             cartasManoMax: 5,         // Maximo de cartas en mano
             cartasIniciales: 3,       // Cartas con las que empiezas
-            turnosParaRobar: 2,       // Robas 1 carta cada N turnos
+            turnosParaRobar: 1,       // Robas 1 carta cada N turnos
             turnosEvento: 1,          // Aparece 1 evento nuevo cada N turnos
             limiteRondas: 5,          // Rondas para ganar en modo normal (15 turnos total)
             turnosParaAumentarDificultad: 3, // Cada N turnos sube dificultad (Infinito)
