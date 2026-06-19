@@ -9,6 +9,17 @@ El objetivo de Deckology es permitir a los administradores gestionar de forma di
 *   **Sistema de Eventos:** Configuración de eventos que ocurren dentro de las zonas de juego.
 *   **Interfaz de Administración:** Un panel de control intuitivo para gestionar toda la lógica del juego.
 
+## 🛠️ Instalación y Puesta en Marcha
+
+Como este proyecto utiliza **PHP** y **MySQL**, no se puede alojar en GitHub Pages. Para probarlo localmente:
+
+1.  **Requisitos:** Tener instalado [XAMPP](https://www.apachefriends.org/es/index.html).
+2.  **Servidor:** Clona este repositorio dentro de tu carpeta `htdocs` de XAMPP (ej. `C:\xampp\htdocs\Deckology`).
+3.  **Iniciar Servicios:** Abre el Panel de Control de XAMPP e inicia **Apache** y **MySQL**.
+4.  **Instalación:** Accede en tu navegador a:
+    `http://localhost/Deckology/src/instalador/`
+    Este script configurará automáticamente la base de datos necesaria para el funcionamiento del juego.
+
 ## 🛠️ Tecnologías Utilizadas
 
 *   **Frontend:** HTML5, CSS3 (diseño responsivo, personalización de componentes), JavaScript (lógica de frontend y búsqueda).
