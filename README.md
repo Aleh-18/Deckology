@@ -22,7 +22,7 @@ Como este proyecto utiliza **PHP** y **MySQL**, no se puede alojar en GitHub Pag
 
 ## 🛠️ Tecnologías Utilizadas
 
-*   **Frontend:** HTML5, CSS3 (diseño responsivo, personalización de componentes), JavaScript (lógica de frontend y búsqueda).
+*   **Frontend:** HTML5, CSS3, **Bootstrap 5** & **Bootstrap Icons** (diseño UI responsivo), **Google Fonts (Nunito)**, JavaScript (lógica del motor de juego y manipulación del DOM).
 *   **Backend:** PHP (arquitectura MVC - Modelo Vista Controlador).
 *   **Base de Datos:** MySQL (gestión de zonas, eventos y perfiles de usuario).
 *   **Servidor:** XAMPP / Apache.
