@@ -1,0 +1,19 @@
+# Carpetas de entorno
+.vscode/
+.idea/
+node_modules/
+vendor/
+
+# Archivos de sistema y temporales
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Configuraciones locales de XAMPP / IDE
+config.local.php
+.env
+
+# Archivos de caché del proyecto
+cache/
+temp/
